@@ -5,7 +5,7 @@
 %global crate rustyline-derive
 
 Name:           rust-%{crate}
-Version:        0.3.0
+Version:        0.12.0
 Release:        1%{?dist}
 Summary:        Rustyline derive macros (Completer, Helper, Hinter, Highlighter)
 
